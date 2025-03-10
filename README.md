@@ -43,7 +43,7 @@ Voor het schrijven van content worden feature branches gebruikt. Maak een nieuwe
 Content moet geschreven worden in `.md` files. Hierbij kunnen aan de hand van page properties kenmerken meegegeven worden aan een pagina.
 
 - `title`:\
-  De title is de titel die wordt weergeven op de wiki.
+  De title is de titel die wordt weergeven op Brightspace.
 - `tags`:\
   Er kunnen tags toegevoegd worden aan een pagina om pagina's te kunnen categoriseren aan een onderwerp.
 - `taxonomie`:\
